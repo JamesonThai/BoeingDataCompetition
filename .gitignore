@@ -1,0 +1,8 @@
+bdc/
+
+*.swp
+*.sw
+*.swo
+*.pyc
+
+*~
